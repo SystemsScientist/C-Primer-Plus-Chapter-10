@@ -20,7 +20,7 @@ int main(void) {
 	printf("%23s %15s\n", "short", "double");
 	
 	// note: the program should display a new set of 
-	// addresses in memory each time the program is 
+	// addresses from memory each time the program is 
 	// compiled and executed, see command-line output
 	for (index = 0; index < SIZE; index++)
 		printf("pointers + %d: %10p %10p\n", 
