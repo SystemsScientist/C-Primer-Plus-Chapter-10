@@ -1,7 +1,8 @@
 # C Primer Plus - Chapter 10 Exercises and Solutions
 
 This repository contains the Listings, Exercises, and Solutions
-for Chapter 10 of C Primer Plus, 5th edition, by Stephen Prata.
+for Chapter 10 of C Primer Plus, 5th edition, by Stephen Prata, 
+which covers Arrays and Pointers.
 
 I created this repository for two reasons. First, I wanted to
 incorporate Git and GitHub into my workflow, so I could give
